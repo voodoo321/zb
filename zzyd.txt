@@ -662,9 +662,9 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226889/index.m3u8?fmt=ts2hls
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 金鹰纪实,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227129/index.m3u8?fmt=ts2hls
-茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226329/index.m3u8
-茶频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
+中国天气,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227129/index.m3u8?fmt=ts2hls
+中国天气,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226329/index.m3u8
+中国天气,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226904/index.m3u8?fmt=ts2hls
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226326/index.m3u8
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
@@ -725,13 +725,10 @@ BesTV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227341/index.m3u8
 其他频道,#genre#
 北京卫视4K,http://39.135.168.36/wh7f454c46tw3873319710_-908059622/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/index.m3u8?fmt=ts2hls&icpid=88888888&RTS=1742893012&from=1&hms_devid=18458&vqe=3
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-CHC影迷电影,http://110.42.41.252:929/卫视/5gTv.php?id=30169
 CHC影迷电影,http://103.163.47.120:555/mg.php?id=952383261&token=MYTOKEN666888
 CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
-CHC动作电影,http://110.42.41.252:929/卫视/5gTv.php?id=30070
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
-CHC家庭影院,http://110.42.41.252:929/卫视/5gTv.php?id=30071
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 重温经典,http://110.42.41.252:929/卫视/5gTv.php?id=30167
 凤凰中文,http://api.kkhk.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
