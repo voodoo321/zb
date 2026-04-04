@@ -716,7 +716,7 @@ BesTV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227341/index.m3u8
 乐游,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226877/10000100000000060000000008198527_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 金色学堂,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226912/10000100000000060000000008198542_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 法治天地,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226895/10000100000000060000000008198642_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-欢笑剧场,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226882/10000100000000060000000008192604_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+多彩文体4k,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226882/10000100000000060000000008192604_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 生活时尚,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226881/10000100000000060000000008198540_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 都市剧场,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226884/10000100000000060000000008192602_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 东方财经,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226843/10000100000000060000000008192608_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
