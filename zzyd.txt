@@ -744,7 +744,7 @@ CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-有线综合频道,http://cdn.163189.xyz/163189/hoy
+HOY77,http://cdn.163189.xyz/163189/hoy
 NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
