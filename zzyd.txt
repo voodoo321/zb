@@ -744,13 +744,11 @@ CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 翡翠台,https://cdn6.163189.xyz/163189/fct
 翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
-无线新闻台 https://test.tvbjack.de5.net/proxy/82fb638916e90cf0
-NOW新闻台 https://test.tvbjack.de5.net/proxy/b9afaff2e8ad98c9
+有线综合频道,http://cdn.163189.xyz/163189/hoy
+NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB PLUS,https://o11.163189.xyz/stream/tvb/tvbp/
 TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
-中視新聞 https://test.tvbjack.de5.net/proxy/52d1a7ce19368f4d
-中天新聞台 https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
-寰宇新聞台 https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
+无线新闻台,http://r.jdshipin.com/CkuBd
 龙华电影,http://cdn8.163189.xyz/163189/lhdy
 龙华经典,http://cdn8.163189.xyz/163189/lhjd
 龙华偶像,http://cdn8.163189.xyz/163189/lhox
