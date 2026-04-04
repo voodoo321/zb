@@ -751,6 +751,11 @@ TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 中視新聞 https://test.tvbjack.de5.net/proxy/52d1a7ce19368f4d
 中天新聞台 https://test.tvbjack.de5.net/proxy/323c11c0b043e86e
 寰宇新聞台 https://test.tvbjack.de5.net/proxy/a64907bd9691cc2a
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
 华数影院1频道 http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 华数影院2频道,http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 华数影院3频道 http://123.115.206.166:7151/hls/46/index.m3u8
