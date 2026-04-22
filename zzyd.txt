@@ -734,13 +734,16 @@ CHC家庭影院,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 重温经典,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
+凤凰中文,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,https://cdn6.163189.xyz/163189/fhzw
 凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
+凤凰资讯,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
 凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
 凤凰资讯,http://221.229.212.86:14896
 凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
+凤凰香港,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
 凤凰香港,https://cdn6.163189.xyz/163189/fhhk
 凤凰香港,http://221.229.212.86:14897
 凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
