@@ -417,6 +417,10 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227403/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
 #EXTINF:-1 group-title="地方频道" tvg-logo="https://gitee.com/voodoo123/logo/raw/master/HNTV/dameihn.png",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/CHC家庭影院.png",CHC家庭影院
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
+#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/CHC影迷电影.png",CHC影迷电影
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/北京纪实科教.png",北京纪实科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/百姓调解.png",百姓调解
