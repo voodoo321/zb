@@ -619,6 +619,7 @@ CGTN俄语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227394/index
 数字频道,#genre#
 CHC家庭影院,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227477/index.m3u8
 CHC影迷电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
+CHC动作电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
 求索纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 多彩文体4k,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8
 多彩文体4k,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
