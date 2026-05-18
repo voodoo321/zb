@@ -81,6 +81,30 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227329/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227352/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/CETV4.png",中国教育4台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227331/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/兵器科技.png",CCTV兵器科技
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227485/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/风云足球.png",CCTV风云足球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227489/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/第一剧场.png",CCTV第一剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227498/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/风云剧场.png",CCTV风云剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/怀旧剧场.png",CCTV怀旧剧场
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227502/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/风云音乐.png",CCTV风云音乐
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227504/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/央视台球.png",CCTV央视台球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227506/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/高尔夫网球.png",CCTV高尔夫网球
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227508/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/女性时尚.png",CCTV女性时尚
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/世界地理.png",CCTV世界地理
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/文化精品.png",CCTV央视文化精品
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="https://live.lizanyang.top/tv/卫生健康.png",CCTV卫生健康
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.lizanyang.top/tv/河南卫视.png",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.lizanyang.top/tv/北京卫视.png",北京卫视
