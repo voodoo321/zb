@@ -319,9 +319,9 @@ CGTN,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001000000
 健康河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/index.m3u8?fmt=ts2hls
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
+梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls
+梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
 睛彩河南曲艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/index.m3u8?fmt=ts2hls
 睛彩河南曲艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226445/index.m3u8
 睛彩河南曲艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
@@ -356,7 +356,7 @@ CGTN,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001000000
 河南中华功夫,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 睛彩移动戏曲,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226929/10000100000000060000000008219371_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 睛彩河南曲艺,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226927/10000100000000060000000008219373_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-河南戏曲,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+梨园频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 大象调解剧场,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226966/10000100000000060000000008219360_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 健康河南,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/10000100000000060000000009868199_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
