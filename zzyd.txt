@@ -727,29 +727,11 @@ CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
 重温经典 http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
-凤凰中文,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228527/1.m3u8
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,https://cdn6.163189.xyz/163189/fhzw
-凤凰中文,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test1_4000.m3u8
-凤凰中文,http://115.44.140.170:18180/TV00000000000000000008@HHZT
 凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
-凤凰资讯,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228524/1.m3u8
-凤凰资讯,https://cdn6.163189.xyz/163189/fhzx
-凤凰资讯,http://221.229.212.86:14896
-凤凰资讯,http://api.kkhk.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
-凤凰资讯,http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/test2_4000.m3u8
 凤凰资讯,http://115.44.140.170:18180/TV00000000000000000009@HHZT
 凤凰资讯,http://120.234.44.98:18180/TV00000000000000000009@HHZT
-凤凰香港,http://221.194.141.41:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8
-凤凰香港,https://cdn6.163189.xyz/163189/fhhk
-凤凰香港,http://221.229.212.86:14897
-凤凰香港,http://api.kkhk.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-凤凰香港,http://115.44.140.170:18180/TV00000000000000000024@HHZT
 凤凰香港,http://120.234.44.98:18180/TV00000000000000000024@HHZT
 香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-翡翠台,https://cdn6.163189.xyz/163189/fct
-翡翠台,https://o11.163189.xyz/stream/tvb/fct/
-翡翠台,http://api.kkhk.itv888.vip:8080/streams/91wc8xdtj8/index.m3u8
 翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
 HOY77,http://cdn.163189.xyz/163189/hoy
 NOW新闻台,http://cdn.163189.xyz/163189/now
@@ -758,15 +740,6 @@ TVB明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 TVB明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
 无线新闻台,http://r.jdshipin.com/CkuBd
 无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
-华数影院1频道 http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-华数影院2频道 http://113.25.252.226:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-华数影院3频道 http://123.115.206.166:7151/hls/46/index.m3u8
-华数影院4频道 http://123.115.206.166:7151/hls/47/index.m3u8
-1905电影网 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905
-1905环球经典 http://xxwx.yoesun.com/xxw/1905电影网.php?id=1905b
-经典香港电影,http://124.77.202.8:49155/625703337
-抗战经典影片,http://124.77.202.8:49155/713600957
-新片放映厅,http://124.77.202.8:49155/619495952
 
 本地广播,#genre#
 河南新闻广播FM92.7,http://satellitepull.cnr.cn/live/wxhnxwgb/playlist.m3u8
