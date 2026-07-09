@@ -179,8 +179,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227185/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227259/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://live.lizanyang.top/tv/延边卫视.png",延边卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
-#EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/导视.png",河南导视
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
 #EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/河南新闻.png",河南新闻
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226544/index.m3u8
 #EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/河南都市.png",河南都市
@@ -205,8 +203,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
 #EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/文物宝库.png",文物宝库
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/晴彩中原.png",晴彩中原
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
 #EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/国学.png",国学频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
 #EXTINF:-1 group-title="省级频道" tvg-logo="https://live.lizanyang.top/tv/健康中原.png",健康中原
@@ -449,18 +445,12 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/北京纪实科教.png",北京纪实科教
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227408/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/百姓调解.png",百姓调解
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://gitee.com/voodoo123/logo/raw/master/HNTV/dameihn.png",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/法治天地.png",法治天地
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226655/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/汽摩.png",汽摩
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226558/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/SITV金色学堂.png",金色学堂
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://gitee.com/voodoo123/logo/raw/master/HNTV/dameihn.png",大美河南
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/生活时尚.png",生活时尚
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/游戏风云.png",游戏风云
@@ -491,10 +481,6 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226666/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/金鹰纪实.png",金鹰纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/美食汇.png",美食汇
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
-#EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/棋牌汇.png",棋牌汇
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://live.lizanyang.top/tv/SITV都市剧场.png",都市剧场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 #EXTINF:-1 group-title="数字频道" tvg-logo="https://gitee.com/voodoo123/logo/raw/master/other/dcwt4k.png",多彩文体4k
