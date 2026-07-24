@@ -21,7 +21,6 @@ CGTN,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/100001000000
 
 CCTV-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/index.m3u8?fmt=ts2hls
 CCTV-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227157/index.m3u8?fmt=ts2hls
-CCTV-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227297/index.m3u8?fmt=ts2hls
 CCTV-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227491/index.m3u8?fmt=ts2hls
 CCTV-2财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226970/index.m3u8?fmt=ts2hls
 CCTV-3综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226960/index.m3u8?fmt=ts2hls
@@ -47,7 +46,7 @@ CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8
 CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227217/index.m3u8?fmt=ts2hls
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/index.m3u8?fmt=ts2hls
 CGTN,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227301/index.m3u8?fmt=ts2hls
-CGTN纪录频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227388/index.m3u8?fmt=ts2hls
+CGTN纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227388/index.m3u8?fmt=ts2hls
 CGTN法语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227386/index.m3u8?fmt=ts2hls
 CGTN西班牙语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227359/index.m3u8?fmt=ts2hls
 CGTN阿拉伯语,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227361/index.m3u8?fmt=ts2hls
