@@ -329,8 +329,8 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 河南公共频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226946/10000100000000060000000008219382_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南乡村频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/10000100000000060000000008219379_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南收藏天下,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/10000100000000060000000008219369_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-河南中华功夫,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-梨园频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+河南武术世界,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+河南梨园频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 健康河南,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/10000100000000060000000009868199_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 
@@ -371,14 +371,14 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 河南公共频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227243/index.m3u8
 河南乡村频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226443/index.m3u8
 河南乡村频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
-河南中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
-河南中华功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
+河南武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8
+河南武术世界,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226692/index.m3u8
 河南收藏天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226447/index.m3u8
 河南收藏天下,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
 健康河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
-河南戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
+河南梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226438/index.m3u8
+河南梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226561/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
