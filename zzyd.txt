@@ -19,6 +19,8 @@ CCTV-16奥林匹克,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227
 CCTV-17农业农村,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226954/10000100000000060000000008219374_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227413/index.m3u8?fmt=ts2hls
 CETV1,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226974/10000100000000060000000008219353_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+CETV2,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227246/index.m3u8?fmt=ts2hls
+CETV4,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227217/index.m3u8?fmt=ts2hls
 CGTN,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226976/10000100000000060000000008219344_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 
 CCTV-1综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226917/index.m3u8?fmt=ts2hls
