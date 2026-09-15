@@ -339,7 +339,6 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls
 河南欢腾购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8?fmt=ts2hls
 
-河南4K试验,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/10000100000000060000000008219391_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南都市频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226911/10000100000000060000000008219389_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南民生频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226913/10000100000000060000000008219388_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南法治频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226940/10000100000000060000000008219387_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
@@ -347,13 +346,12 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 河南新闻频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226915/10000100000000060000000008219385_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南公共频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226946/10000100000000060000000008219382_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南乡村频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226948/10000100000000060000000008219379_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
-河南收藏天下,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/10000100000000060000000008219369_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
+河南文物宝库,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226931/10000100000000060000000008219369_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南武术世界,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/10000100000000060000000008219365_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南梨园频道,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/10000100000000060000000008219367_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 河南移动电视,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/10000100000000060000000008192614_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 健康河南,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/10000100000000060000000009868199_0.smil/index.m3u8?fmt=ts2hls&servicetype=1
 
-河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 河南4K试验,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226430/index.m3u8
 河南都市频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226649/index.m3u8
