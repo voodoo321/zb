@@ -336,10 +336,6 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 健康河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227091/index.m3u8?fmt=ts2hls
 河南移动电视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226872/index.m3u8?fmt=ts2hls
 河南梨园频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226933/index.m3u8?fmt=ts2hls
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226891/index.m3u8?fmt=ts2hls
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226883/index.m3u8?fmt=ts2hls
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226897/index.m3u8?fmt=ts2hls
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226914/index.m3u8?fmt=ts2hls
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226925/index.m3u8?fmt=ts2hls
 河南欢腾购物,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227137/index.m3u8?fmt=ts2hls
 
@@ -390,7 +386,6 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226383/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
-大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226585/index.m3u8
 大美河南,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
 
 地方频道,#genre#
