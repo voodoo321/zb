@@ -779,10 +779,23 @@ BesTV,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227341/index.m3u8
 CHC影迷电影,http://106.14.190.115:1234/952383261
 CHC影迷电影,http://103.163.47.120:555/mg.php?id=952383261&token=MYTOKEN666888
 CHC影迷电影,http://api.kkhk.itv888.vip:8080/streams/narc71xn3d/index.m3u8
+CHC影迷电影,http://lysj.aylzline.top:8899/rtp/225.1.2.210:11398
 CHC动作电影,http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 CHC动作电影,http://api.kkhk.itv888.vip:8080/streams/tbqrnwqrilg/index.m3u8
+CHC动作电影,http://lysj.aylzline.top:8899/rtp/225.1.2.215:11428
 CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 CHC家庭影院,http://api.kkhk.itv888.vip:8080/streams/qja633ty8n/index.m3u8
+CHC家庭影院,http://lysj.aylzline.top:8899/rtp/225.1.2.214:11422
+华数经典电影,http://lysj.aylzline.top:8899/rtp/225.1.2.167:11020
+华数精选频道,http://lysj.aylzline.top:8899/rtp/225.1.2.236:11524
+华数谍战剧场,http://lysj.aylzline.top:8899/rtp/225.1.2.168:11026
+华数IPTV8,http://lysj.aylzline.top:8899/rtp/225.1.2.51:10300
+华数IPTV6,http://lysj.aylzline.top:8899/rtp/225.1.2.155:10948
+华数少儿动画,http://lysj.aylzline.top:8899/rtp/225.1.2.172:11050
+华数热播剧场,http://lysj.aylzline.top:8899/rtp/225.1.2.173:11056
+IPTV相声小品,http://lysj.aylzline.top:8899/rtp/225.1.2.169:11032
+IPTV野外,http://lysj.aylzline.top:8899/rtp/225.1.2.170:11038
+IPTV法治,http://lysj.aylzline.top:8899/rtp/225.1.2.171:11044
 重温经典 http://124.236.93.22:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 凤凰中文,http://zmgd.zyrnet.com:8888//hls/110/index.m3u8
 凤凰中文,http://120.234.44.98:18180/TV00000000000000000008@HHZT
