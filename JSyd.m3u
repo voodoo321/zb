@@ -61,6 +61,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CETV1.png" group-title="央视频道",CETV1
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CGTN.png" group-title="央视频道",CGTN
+http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/凤凰卫视香港.png" group-title="卫视频道",凤凰香港
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/凤凰卫视中文.png" group-title="卫视频道",凤凰中文
@@ -279,7 +281,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/4K修复.png" group-title="4K8K频道",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="7008" group-title="4K频道" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/纯享4K.png",纯享4K
+#EXTINF:-1 tvg-id="7008" group-title="4K8K频道" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/纯享4K.png",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/江苏卫视4K.png" group-title="4K8K频道",江苏卫视4K
 http://ott.mobaibox.com/PLTV/4/224/3221228897/index.m3u8
@@ -361,8 +363,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/知否知否.png" group-title="影视频道",知否知否
 http://ott.mobaibox.com/PLTV/3/224/3221228465/index.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/CGTN.png" group-title="iHOT频道",环球电视网
-http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/AI直播.png" group-title="iHOT频道",AI直播
 http://ott.mobaibox.com/PLTV/4/224/3221228873/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://testingcf.jsdelivr.net/gh/cicivi/jsyd-iptv/logo/美食美味.png" group-title="iHOT频道",美食美味
