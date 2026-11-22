@@ -247,6 +247,11 @@ CCTV卫生健康,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516
 山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
 湖南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
 东方卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
+辽宁卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227546/index.m3u8
+江西卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227552/index.m3u8
+天津卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227544/index.m3u8
+重庆卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227540/index.m3u8
+贵州卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227542/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227239/index.m3u8
