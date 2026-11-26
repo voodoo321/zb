@@ -105,6 +105,16 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227461/index.m3u8?fmt=t
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227472/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227429/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="重庆卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/重庆卫视4K.png" group-title="卫视频道",重庆卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227540/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/辽宁卫视4K.png" group-title="卫视频道",辽宁卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227546/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/江西卫视4K.png" group-title="卫视频道",江西卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/天津卫视4K.png" group-title="卫视频道",天津卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/贵州卫视4K.png" group-title="卫视频道",贵州卫视4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227542/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/河南卫视.png" group-title="卫视频道",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/河南卫视.png" group-title="卫视频道",河南卫视
