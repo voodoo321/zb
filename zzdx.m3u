@@ -59,6 +59,16 @@ http://222.85.69.6/PLTV/88888888/224/3221227274/index.m3u8?servicetype=1
 http://222.85.69.6/PLTV/88888888/224/3221227278/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/东方卫视4K.png" group-title="卫视频道",东方卫视4K
 http://222.85.69.6/PLTV/88888888/224/3221227271/index.m3u8?servicetype=1
+#EXTINF:-1 tvg-name="重庆卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/重庆卫视4K.png" group-title="卫视频道",重庆卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221227342/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/辽宁卫视4K.png" group-title="卫视频道",辽宁卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221227339/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/江西卫视4K.png" group-title="卫视频道",江西卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221227287/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/天津卫视4K.png" group-title="卫视频道",天津卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221227284/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视4K" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/贵州卫视4K.png" group-title="卫视频道",贵州卫视4K
+http://222.85.69.6/PLTV/88888888/224/3221227283/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/河南卫视.png" group-title="卫视频道",河南卫视
 rtsp://222.85.69.6/PLTV/88888888/224/3221226400/10000100000000060000000000427502_0.smil
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.giteeusercontent.com/voodoo123/logo/raw/master/北京卫视.png" group-title="卫视频道",北京卫视
